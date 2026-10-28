@@ -1,2 +1,6 @@
 # UMLCAD-Public
-This repository contains the link to my UML CAD website which allows users to create UML Diagrams from a web-browser without having to log in.
+
+Link to UML CAD: https://umlcad.vercel.app/
+
+More info about UML CAD:
+UML CAD was created as a way for people to create UML Diagrams without having to pay or log into an account. UML CAD is a browser-based tool that allows the user to create UML Diagrams visually and export them as a umlcad, png, or svg file. UML CAD was built using React, XYFlow, and Typescript and deployed using Vercel.
